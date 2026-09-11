@@ -232,3 +232,6 @@ This repository serves as the official landing page for MSI Gaming App. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of MSI Gaming App today!**
+
+---
+**Last updated:** 2026-09-11 11:00:15 UTC
